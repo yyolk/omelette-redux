@@ -1,5 +1,13 @@
 {
     "name": "omelette-redux"
+  , "author": "Joseph Yølk Chiocchi <joe@yolk.cc> (http://yolk.cc)"
+  , "description": "Made fresh."
+  , "homepage": "http://yolk.cc"
+  , "subdomain": "yo"
+  , "domains": [
+      "yolk.cc"
+    , "www.yolk.cc"
+  ]
   , "version": "0.0.1"
   , "dependencies": {
         "express": "3.0.0beta4"
@@ -7,6 +15,7 @@
       , "jade": "*"
       , "stylus": "*"
       , "coffee-script": "*"
+      , "marked": "*"
     }
   , "scripts": {
       "start": "server.js"
