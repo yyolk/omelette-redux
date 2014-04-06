@@ -1,8 +1,10 @@
+---
 Title: SameDifference.io
 Date: Fri, 18 Jan 2013 06:46:17 GMT
 Keywords: website, collab
 Link: http://samedifference.io
 Github: https://github.com/yyolk/samedifference
+---
 
 with [Mitch Thar][2]
 
