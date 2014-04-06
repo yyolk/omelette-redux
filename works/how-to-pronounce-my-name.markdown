@@ -1,7 +1,8 @@
 ---
 Title: HOW TO PRONOUNCE MY NAME
 Date: Fri, 8 Oct 2010 02:35:49 GMT
-Keywords: video
+Keywords:
+    - video
 ---
 
 HOW TO PRONOUNCE MY NAME

@@ -1,7 +1,8 @@
 ---
 Title: 20120410-0233AM
 Date: Tue, 10 April 2012 03:33:33 GMT
-Keywords: video
+Keywords:
+    - video
 ---
 
 20120410-0233AM

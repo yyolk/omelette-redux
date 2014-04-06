@@ -1,7 +1,9 @@
 ---
 Title: GIF Wrapping
 Date: Tue, 25 Dec 2012 19:34:36 GMT
-Keywords: collab, website
+Keywords:
+    - collab
+    - website
 Link: http://gifwrapping.net/
 ---
 

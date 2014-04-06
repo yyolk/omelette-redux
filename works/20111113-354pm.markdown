@@ -1,7 +1,8 @@
 ---
 Title: 20111113-354pm
 Date: Sunday, November 13, 2011 15:54:00 GMT
-Keywords: video
+Keywords: 
+    - video
 ---
 
 20111113-354pm

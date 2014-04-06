@@ -1,7 +1,9 @@
 ---
 Title: B A N N E R
 Date: Sun, 10 Mar 2011 05:19:04 GMT
-Keywords: website, experiment
+Keywords:
+    - website
+    - experiment
 ---
 
 JavaScript cloth emulation with shading based off velocity.
