@@ -21,6 +21,11 @@ app.configure ->
   app.use express.logger('dev')
   app.use express.bodyParser()
   app.use express.methodOverride()
+  app.use (req, res, next) ->
+    works = new app.Works(()->
+      res.works = works
+      next()
+    )
   app.use require('connect-assets')(src: "#{__dirname}/assets")
   app.use app.router
 
